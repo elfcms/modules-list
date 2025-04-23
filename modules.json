@@ -52,6 +52,6 @@
       "install_via": "composer",
       "composer_package": "elfcms/geodata",
       "categories": ["Geodata", "Database"]
-    },
+    }
   ]
 }
