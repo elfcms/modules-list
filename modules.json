@@ -7,7 +7,7 @@
       "description": "Flexible module for creating and managing abstract informational entities.",
       "package": "elfcms/infobox",
       "repo": "https://github.com/elfcms/infobox",
-      "version": "1.0.0",
+      "version": "1.8.0",
       "license": "MIT",
       "author": "Maxim Klassen",
       "free": true,
@@ -21,7 +21,7 @@
       "description": "Module for creating a blog with comments, tags, and likes.",
       "package": "elfcms/blog",
       "repo": "https://github.com/elfcms/blog",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "license": "MIT",
       "author": "Maxim Klassen",
       "free": true,
@@ -35,27 +35,13 @@
       "description": "Image gallery module suitable for artists, photographers, and media-rich websites.",
       "package": "elfcms/gallery",
       "repo": "https://github.com/elfcms/gallery",
-      "version": "1.0.0",
+      "version": "1.5.0",
       "license": "MIT",
       "author": "Maxim Klassen",
       "free": true,
       "install_via": "composer",
       "composer_package": "elfcms/gallery",
       "categories": ["Media", "Gallery"]
-    },
-    {
-      "name": "geodata",
-      "title": "Geodata",
-      "description": "Module for managing a database of geographic objects and data.",
-      "package": "elfcms/geodata",
-      "repo": "https://github.com/elfcms/geodata",
-      "version": "dev",
-      "license": "MIT",
-      "author": "Maxim Klassen",
-      "free": true,
-      "install_via": "composer",
-      "composer_package": "elfcms/geodata",
-      "categories": ["Geodata", "Database"]
     }
   ]
 }
